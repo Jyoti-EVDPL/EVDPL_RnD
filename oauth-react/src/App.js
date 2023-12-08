@@ -38,7 +38,7 @@ function App() {
         <button onClick={(e) => handleSignOut(e)}>Sign Out</button>
       }
       user && <div>
-        <img src={user.picture} alt='null'></img>
+        <img src={user.picture} alt='img'></img>
         <h3>{user.name}</h3>
       </div>
     </div>
