@@ -1,0 +1,15 @@
+button{
+  background-color: rgb(17, 134, 212);
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 15px;
+  font-size: medium;
+  color: rgb(0, 0, 0);
+}
+header{
+  text-align: center;
+  color: aqua;
+  background-color: blueviolet;
+}
